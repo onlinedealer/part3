@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Wells Fargo Open OCR</title>
+    <!-- CSS  -->
+    <link href="apps/css/common.css" rel="stylesheet">
+<!--         <link href="apps/css/new.css" rel="stylesheet">
+ -->
+    <link href="apps/lib/css/bootstrap.css" rel="stylesheet">
+
+    <script src="apps/lib/jquery.min.js"></script>
+    <script src="apps/lib/angular.js"></script>
+    <script src="apps/lib/angular-route.js"></script>
+    <script src="apps/lib/angular-animate.js"></script>
+    <script src="apps/lib/ui-bootstrap-tpls-1.2.0.js"></script>
+    <script src="apps/utils/utils.js"></script>
+    <script src="app.js"></script>
+    <script src="apps/controllers/homeCtrl.js"></script>
+    <script src="apps/controllers/dashboardCtrl.js"></script>
+    <script src="apps/factory/ajaxFactory.js"></script>
+    <!-- <script src="apps/service/myDataUtill.js"></script> -->
+
+    <!-- constants JS files -->
+    <script src="apps/constants/routers.js"></script>
+    <!-- Directives JS files -->
+    <script src="apps/directives/headerMenuFooter.js"></script>
+</head>
+</head>
+
+<body ng-app="app">
+    <div class="themeadmin">
+        <!--  Header -->
+        <header-template></header-template>
+        <section class="content-rightsec">
+        <!--  Container -->
+        <aside class="w100per clearfix">
+            <div ng-view></div>
+        </aside>
+        <div class="clear"></div>
+    </section>
+        <!--  Footer -->
+        <footer-template></footer-template>
+    </div>
+</body>
+
+</html>
