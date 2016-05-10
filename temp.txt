@@ -1,0 +1,64 @@
+----------- css ---
+
+.back-color-navbar{
+   background: #2B2B2B;
+   height: 85px;
+}
+.header-text{
+   color: #fff;
+   font-size: 16px;
+   display: inline;
+   position: relative;
+   top: 24px;
+   left: 4%;
+}
+.header-home-text{
+  color: #B51630;
+   font-size: 16px;
+   font-weight: bold;
+   display: inline;
+   position: relative;
+   top: 13px;
+   right: 5%;
+   padding: 20px 22px 8px 32px;   
+   background-color: #D3D3D3;
+   border-radius: 6px 6px 0 0;
+}
+.bottom-line{
+   border-top: 5px solid red;
+   position: relative;
+   left: 4%;
+   width: 91%;
+}
+----------------------------
+---------header.html --------------
+<header>	
+<div class="back-color-navbar">	
+<div class="header-text">Sample OCR</div>
+<div class="pull-right header-home-text">
+<div> ICON </div>
+<div> Home </div>
+</div>
+</div>
+<div class="bottom-line"></div>
+</header>
+-------------------- index.html -------------
+<body ng-app="app">
+ 
+       <header-template></header-template>
+       <section class="content-rightsec">
+<div ng-view></div>
+</section>
+       <!--  Footer -->
+       <footer-template></footer-template>
+ 
+</body>
+U • 28 mins
+hi
+U R (raviurlams@gmail.com)
+----
+<h2>{{responseMsg}}</h2>
+--popup.html
+------------ ctrl --
+$scope.responseMsg = response;
+ModalInstanceController lo
