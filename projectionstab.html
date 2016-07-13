@@ -1,0 +1,9 @@
+<button id="expandAll" type="button" class="btn btn-success" ng-click="expandAll()">Expand All</button>
+<button id="toggleFirstRow" type="button" class="btn btn-success" ng-click="toggleRow(0)">Toggle First Row</button>
+<button id="toggleSecondRow" type="button" class="btn btn-success" ng-click="toggleRow(1)">Toggle Second Row</button>
+<input type="button" class="btn btn-small" ng-click="collapseAllRows()" value="Collapse All" />
+<button id="toggleSecondRow" type="button" class="btn btn-success" ng-click="hideColumObj(0)">Hide 1 st Column</button>
+<button id="toggleSecondRow" type="button" class="btn btn-success" ng-click="hideColumObj(5)">Hide 5 Columns</button>
+<button id="toggleSecondRow" type="button" class="btn btn-success" ng-click="showColumObj()">Show All Columns</button>
+
+<div id="grid1" ui-grid="gridOptions" ui-grid-tree-view class="col-sm-12"></div>
