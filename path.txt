@@ -1,2 +1,14 @@
 www > app > services > contact > contactServices.js----D:\Bharath Thangalla\app\SalesARM_App\SalesARM\www\app\service\contact
 www > app > services > common > serviceApi.js--D:\Bharath Thangalla\app\SalesARM_App\SalesARM\www\app\service\common
+
+
+1.why define doc type
+2.how to put side by side div without CSS
+3.document.onload vs document.readystate
+4.canvas tag
+5.how to define variable in JS and jQuery, like $scope in angularjs
+6.how to check variable is assigned a value or not
+7.null and undefine
+8.closure
+9.dl tages in html5
+10.why use strict in js pages
