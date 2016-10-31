@@ -1,6 +1,7 @@
 www > app > services > contact > contactServices.js----D:\Bharath Thangalla\app\SalesARM_App\SalesARM\www\app\service\contact
 www > app > services > common > serviceApi.js--D:\Bharath Thangalla\app\SalesARM_App\SalesARM\www\app\service\common
 
+Interview--01
 
 1.why define doc type
 2.how to put side by side div without CSS
@@ -12,3 +13,5 @@ www > app > services > common > serviceApi.js--D:\Bharath Thangalla\app\SalesARM
 8.closure
 9.dl tages in html5
 10.why use strict in js pages
+
+
