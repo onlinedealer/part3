@@ -15,3 +15,13 @@ Interview--01
 10.why use strict in js pages
 
 
+interview 2nd(synechron)
+
+1.angularjs core modules
+2.angularjs expressions
+3.$scope vs scope
+4.issues on two way binding
+5.$watch vs $observe
+6.xml vs json
+7.dot notation and object notation
+8.
