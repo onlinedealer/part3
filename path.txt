@@ -25,3 +25,25 @@ interview 2nd(synechron)
 6.xml vs json
 7.dot notation and object notation
 8.
+
+
+
+
+Hi Bharath,
+ 
+As discussed over the phone, kindly refresh on the below topics thoroughly for client round.
+ 
+-          Html5 Canvas and SVG
+-          Browser Compatibility Issues
+-          Object Oriented JavaScript
+-          Angularjs1.x
+-          Angular2 basics
+ 
+Refer below link for more questions :
+http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers
+AngularJS Interview Questions and Answers - CodeProject
+www.codeproject.com
+Download Angular Interview Question notes - 442.2 KB; Contents. Angular Interview questions and answers. What is AngularJS ? Explain Directives in Angular?
+Chaitra .Udaya. Shetty
+PMO - Synechron
+Mobile: +91.9515131497  | Ext. 4414, Hyderabad
