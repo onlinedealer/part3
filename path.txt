@@ -26,6 +26,15 @@ interview 2nd(synechron)
 7.dot notation and object notation
 8.
 
+interview 03:
+
+1.Array.isArray(Arry);   // returns is that arry is array or not--that is true or false
+2.static variable
+3.var vs let
+4.how to write code for upload a file in js
+5.upload progress bar code
+6.private variable
+7.how many div's in page
 
 
 
